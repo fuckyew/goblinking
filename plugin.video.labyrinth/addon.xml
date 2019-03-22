@@ -11,7 +11,7 @@
         <import addon="script.module.dateutil" />
 		<import addon="script.module.feedparser" version="5.1.3"/>
         <!--<import addon="script.module.web-pdb" version="1.0"/>-->
-        <import addon="script.module.resolveurl" />
+        <import addon="script.module.resolveurl" version="5.0.27" />
         <!--<import addon="script.module.urlresolver" />-->
     </requires>
     <extension point="xbmc.python.pluginsource" library="default.py">
